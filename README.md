@@ -23,7 +23,7 @@ Of course if your installed your Arduino IDE to a different location then that i
 ## API
 
 ### Messenger(byte separator)
-       -- or --
+or
 ### Messenger()
 You can create an instance of Messenger by specifying a message separator. If you do not specify a separator, the space character will be selected.
 General Methods
