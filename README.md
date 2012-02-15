@@ -1,7 +1,7 @@
 # Messenger library for arduino
 Messenger is a "toolkit" that facilitates the parsing of ASCII messages. Messenger buffers characters until it receives a carriage return (CR) or newline (NL). It then considers the message complete and available. The message is split into many elements as defined by a separator. The default separator is the space character, but can be any character other than NULL, LF or CR.
 
-Note: This library is created by Thomas Ouellet Fredericks this is simply a fork with some tiny modifications and put on github for easy editing but credits go to Thomas Ouellet Fredericks
+*Note:* This library is created by Thomas Ouellet Fredericks this is simply a fork with some tiny modifications and put on github for easy editing but credits go to Thomas Ouellet Fredericks
 
 ## Install
 
